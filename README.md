@@ -1,4 +1,4 @@
-# CIFAR 100 Class Name Image Classification
+# CIFAR 100 Class Image Classification
 The CIFAR-100 dataset consists of 60000 32x32 colour images in 100 classes, with 600 images per class. The 100 classes in the CIFAR-100 are grouped into 20 superclasses. Each image comes with a "fine" label (the class to which it belongs) and a "coarse" label (the superclass to which it belongs). There are 50000 training images and 10000 test images. The meta file contains the label names of each class and superclass.
 
 Here is the list of the 100 classes in the CIFAR-100:
