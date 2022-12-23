@@ -4,8 +4,8 @@ The CIFAR-100 dataset consists of 60000 32x32 colour images in 100 classes, with
 Here is the list of the 100 classes in the CIFAR-100:
 
 Classes:
-1-5) beaver, dolphin, otter, seal, whale
-6-10) aquarium fish, flatfish, ray, shark, trout
+- 1-5) beaver, dolphin, otter, seal, whale
+- 6-10) aquarium fish, flatfish, ray, shark, trout
 11-15) orchids, poppies, roses, sunflowers, tulips
 16-20) bottles, bowls, cans, cups, plates
 21-25) apples, mushrooms, oranges, pears, sweet peppers
